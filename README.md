@@ -1,5 +1,5 @@
 # ASec
-![tester](https://github.com/user-attachments/assets/10b6f3dc-dff3-413c-abea-ebf91392d84a)
+<img width="1354" height="1224" alt="ASec" src="https://github.com/user-attachments/assets/558a3fa2-a3ad-4eb5-9fc6-376621575d19" />
 
 **2026_01.02更新**
 
